@@ -16,7 +16,6 @@ System.out.println("covid19");
 
 
 
-System.out.println("BIRDFLUE");
 
 
 
