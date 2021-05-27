@@ -1,4 +1,4 @@
-class HelloWorld {
+class Hello {
 
 
 
@@ -6,7 +6,7 @@ class HelloWorld {
 
 
 
-                 System.out.println("HelloWorld!!!");
+                 System.out.println("Hello!!!");
 
 
 
